@@ -1,6 +1,5 @@
 # class_activity
 ---
----
 ## What is the background of your company? What do they do? Who are their competitors?
 
 Novigi is an advisory and data services firm. Its mission statement is "We take an evidence-based, research-driven approach to design and implement intelligent  solutions. We use our skills, expertise and experience to support, advise and lead our clients. Our specialty is in the use of data, integration and automation to yield efficiency, insight and innovation outcomes". Novigi designs and implements cutting edge data, integration and automation solutions that transform business functions and deliver efficiency, insight and innovation outcomes for our clients.
@@ -39,4 +38,3 @@ The opt-in system would create a framework of data sharing between super funds, 
 ## What is the prognosis for this company? Where do they expect to be in the future?
 
 The company is expected to gain prominence as adoption rates for the technology they advocate increase over time.
----
