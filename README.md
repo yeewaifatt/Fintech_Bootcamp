@@ -38,3 +38,5 @@ The opt-in system would create a framework of data sharing between super funds, 
 ## What is the prognosis for this company? Where do they expect to be in the future?
 
 The company is expected to gain prominence as adoption rates for the technology they advocate increase over time.
+
+[Click on this link to learn more about the company](https://www.novigi.com.au/)
